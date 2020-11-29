@@ -1,3 +1,1 @@
-Prvi commit
-Commit mislava- ispravak sa drugog brancha: mlesin_Moj_Branch
-Treci commit.
+Prvi commit (drugi pokusaj)
