@@ -1,1 +1,3 @@
 Prvi commit (drugi pokusaj)
+
+Drugi commit (sa mislavovBranch)
